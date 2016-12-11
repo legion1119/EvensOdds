@@ -1,9 +1,12 @@
+/*
+ * Code accepts a number of strings and returns two separate strings
+ * based on where the characters were in the original string. (even or odd position)
+ */
 import java.io.*;
 import java.util.*;
 
 public class EvensOdds 
 {
-
     public static void main(String[] args) 
     {
         Scanner input = new Scanner(System.in);
